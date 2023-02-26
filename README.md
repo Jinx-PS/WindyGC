@@ -6,7 +6,7 @@ A complete PS setup with windy for stupid asses.
 - Server resources version : 3.4.0
 
 ## Tutorial
-Soon
+[ Windy - Wiki ](https://github.com/Jinx-PS/Windy/wiki)
 
 ## Credits 
 - [Grasscutter](https://github.com/grasscutters/grasscutter) - Anime game server implementaion
