@@ -1,5 +1,6 @@
-# WindyGC
+# [Discontinued] WindyGC
 A complete PS setup with windy for stupid asses.
+- This repository has ben discontinued and will not update, It will be open for read so you may update it yourself.
 
 ## WindyGC Info
 - GC Version : 1.4.6
